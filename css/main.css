@@ -170,3 +170,9 @@ nav a.selected {
  nav a:hover {
   color: black;
 }
+
+p {
+  text-align: center;
+  font-size: 2em;
+  color: black;
+}
