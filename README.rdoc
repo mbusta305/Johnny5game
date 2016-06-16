@@ -1,0 +1,11 @@
+In this repo I have created a simple guessing game.
+It allows user to interact with the page, either selecting to play or not.
+Based on the users choice the page will prompt the user with a question to select a number between 1 and 6.
+I wrote a script that randomly selects a number between/including 1 and 6 each time the user plays, and then displays
+if the user picked correctly or incorrectly.
+
+Languages used are:
+
+HTML
+CSS
+JavaScript
