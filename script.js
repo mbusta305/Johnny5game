@@ -9,7 +9,7 @@ if ( answer.toUpperCase() === 'YES' ) {
 var randomNumber = Math.floor(Math.random() * 6) + 1;
 var guess = prompt('I am thinking of a number between 1 and 6. What is it?')
 if (parseInt(guess)=== randomNumber) {
-  document.write('<p><h1>Awesome! The number was ' + randomNumber + 'You guessed right!</h1></p>')
+  document.write('<p><h1>Awesome! The number was ' + randomNumber + ' You guessed right!</h1></p>')
 } else {
-  document.write('<p><h1>Sorry, The number was ' + randomNumber + '!</h1></p>');
+  document.write('<p><h1>Sorry that is incorrect, The number was ' + randomNumber + '!</h1></p>');
 }
