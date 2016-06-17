@@ -171,8 +171,13 @@ nav a.selected {
   color: black;
 }
 
-p {
+button {
   text-align: center;
   font-size: 2em;
-  color: black;
+  color: white;
+  background-color: #00C853;
+  border-color: #00C853;
+  border-radius: 10%;
+  font-weight: 300;
+  margin-left: 45%;
 }
